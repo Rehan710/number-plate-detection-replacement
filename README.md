@@ -4,6 +4,7 @@ This project allows users to upload images of vehicles and automatically detect,
 
 **Features**
 •	Number Plate Detection: Detects vehicle number plates in uploaded images.
+
 •	Text Extraction: Extracts the text from detected number plates using OCR.
 •	Logo Replacement: Replaces detected number plates with a custom logo.
 •	Manual Annotation: If no number plates are detected, users can manually annotate the bounding boxes.

@@ -25,14 +25,18 @@ git clone https://github.com/your-username/number-plate-detection.git
 2.	Navigate to the project directory:<br/>
 cd number-plate-detection<br/>
 3.	Install the required dependencies:<br/>
-pip install -r requirements.txt<br/>
+```cmd
+pip install -r requirements.txt
+```
 
 
 
 **Usage**<br/>
 1. Run the Streamlit Application<br/>
 Launch the app by running the following command:<br/>
-streamlit run app.py<br/>
+```cmd
+streamlit run app.py
+```
 
 2. **Upload Image**<br/>
 Once the application is running, you will be prompted to upload an image file (PNG, JPG, JPEG). The image will be processed to detect number plates.<br/>
@@ -67,9 +71,6 @@ If no number plates are detected:<br/>
 •	Tesseract OCR<br/>
 •	Pandas<br/>
 •	Pillow<br/>
-
-Install dependencies with:<br/>
-pip install -r requirements.txt<br/>
 
 
 
